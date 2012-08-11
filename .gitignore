@@ -1,3 +1,13 @@
+bin/*
+*/bin*
+.settings/*
+*/.settings
+.cache
+.classpath
+.project
+f
+*.csv
+
 #################
 ## Eclipse
 #################
