@@ -1,6 +1,7 @@
-package math
+package main.math
 
 import processing.core._
+import main.resources
 import scala.math._
 
 object plot extends PApplet{
@@ -16,7 +17,7 @@ object plot extends PApplet{
  
   override def draw(): Unit = {
 
-    val pic = loadImage("Darrell.jpg")
+    val pic = loadImage("/src/main/resources/Darrell.jpg")
     image(pic, 25, 25)
 
   } //end draw

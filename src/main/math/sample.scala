@@ -1,4 +1,4 @@
-package math
+package main.math
 
 trait sample {
 

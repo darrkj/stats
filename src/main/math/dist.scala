@@ -1,4 +1,4 @@
-package math
+package main.math
 
 import scala.math._
 import scala.util._
