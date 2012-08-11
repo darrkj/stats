@@ -1,0 +1,7 @@
+package math
+
+trait sample {
+
+
+  
+}
